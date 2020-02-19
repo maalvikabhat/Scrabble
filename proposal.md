@@ -1,7 +1,9 @@
 SCRABBLE
 
 SoftSys Spring 2020
+
 Maalvika Bhat
+
 Project 1
 
 The goal of this project is to create a program in C that will produce a list of all the possible words that can be made from a given set of letters. It will act almost as a cheat for Scrabble (or a similar word game). I plan to create an easy-to-use interface where users can input upto 20 letters and a list of words (in alphabetic order) will be shown. A lower bound that I am confident I can acheive is the function of the program, and a stretch goal is to create a visually aesthetic unscrambling platform.
