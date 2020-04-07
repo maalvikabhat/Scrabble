@@ -14,6 +14,8 @@ char copy[20][20];
 
 int comb_size=0,str_len,fixer_in=0,fixer_movement,comb_num,kp=-1,num=0;			
 
+// comb_num is the serial number for printing combinations of a particular size.
+
 
 int main()
 {
