@@ -14,14 +14,6 @@ char copy[20][20];
 
 int comb_size=0,str_len,fixer_in=0,fixer_movement,comb_num,kp=-1,num=0;			
 
-/*
-fixer_in is the place holder for input string.It is basically represents the element of the input string that will go 
-in the first position of the output string.
-fixer_movement defines the movement of the first elemnt of the output string.(Its a bit tough to explain :/).
-comb_num is the serial number for printing combinations of a particular size.
-*/
-
-
 
 int main()
 {
